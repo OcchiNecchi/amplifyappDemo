@@ -1,0 +1,9 @@
+{
+  "function": {
+    "amplifyappdemo75e6cb58": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
+}
